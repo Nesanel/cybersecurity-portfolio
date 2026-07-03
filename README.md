@@ -1,3 +1,18 @@
-# cybersecurity-portfolio
-Hands-on cybersecurity labs focused on detection engineering, threat hunting, security operations, and blue team investigations.
-# This portfolio documents my ongoing journey in building, operating, and investigating a modern Security Operations Center. Each lab emphasizes not only implementation, but also validation, troubleshooting, and detection engineering.
+# Cybersecurity Portfolio
+
+Hands-on cybersecurity labs focused on detection engineering, threat hunting, security operations, digital forensics, and blue team investigations.
+
+---
+
+## Current Labs
+
+| Lab | Status |
+|------|--------|
+| ✅ Lab 01 - Home SOC with Wazuh & Sysmon | Complete |
+| 🚧 Lab 02 - Windows Discovery | In Progress |
+
+---
+
+## About
+
+This portfolio documents my ongoing journey...
