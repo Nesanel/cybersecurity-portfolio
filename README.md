@@ -6,7 +6,7 @@ Hands-on cybersecurity labs focused on detection engineering, threat hunting, se
 
 | Lab | Focus | Status |
 |---|---|---|
-| **Lab 01 – Wazuh Home SOC** | Built a home SOC using Wazuh, Sysmon, Windows telemetry, custom detections, and threat hunting | ✅ Complete |
+| [**Lab 01 – Wazuh Home SOC**](#lab-01) | Built a home SOC using Wazuh, Sysmon, Windows telemetry, custom detections, and threat hunting | ✅ Complete |
 | [**Lab 02 – Automated Malware Response**](./Lab-02-Automated-Malware-Response/README.md) | Integrated Wazuh FIM with VirusTotal and automated endpoint remediation using Python Active Response | ✅ Complete |
 
 ---
