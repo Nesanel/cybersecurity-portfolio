@@ -1,3 +1,18 @@
+> # Cybersecurity Portfolio
+
+Hands-on cybersecurity labs focused on detection engineering, threat hunting, security operations, automation, and blue-team investigations.
+
+## Projects
+
+| Lab | Focus | Status |
+|---|---|---|
+| **Lab 01 – Wazuh Home SOC** | Built a home SOC using Wazuh, Sysmon, Windows telemetry, custom detections, and threat hunting | ✅ Complete |
+| [**Lab 02 – Automated Malware Response**](./Lab-02-Automated-Malware-Response/README.md) | Integrated Wazuh FIM with VirusTotal and automated endpoint remediation using Python Active Response | ✅ Complete |
+
+---
+
+## Lab 01
+> 
 > **Project Goal**
 >
 > Build a production-style home SOC capable of collecting endpoint telemetry, validating detections, and serving as the foundation for future threat hunting and incident response labs.
